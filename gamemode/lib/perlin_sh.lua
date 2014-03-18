@@ -1,3 +1,12 @@
+/*
+ * This file is subject to the terms and conditions defined in
+ * file 'LICENSE.txt', which is part of this source code package.
+ * removing or modifying this header is a violation of the terms 
+ * and conditions defined in 'LICENSE.txt'
+ */
+
+
+
 local root = function( num, deg ) return math.pow( num, 1/deg ) end
 local pow = math.pow
 local rshift = bit.rshift

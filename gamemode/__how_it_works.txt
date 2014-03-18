@@ -1,0 +1,10 @@
+==============================================
+CHUNK DOWNLOADS
+==============================================
+Chunk downloads are handled seperately from the threads that actually use the chunks. There is no way to request a particular chunk, rather
+chunks are provided by the chunkmanager_cl at the algorithm's discression and are then made avaliable for use.
+
+==============================================
+CHUNK STATUSES
+==============================================
+Chunk statuses can be used to determine what processes a chunk has gone through and which it has yet to encounter.

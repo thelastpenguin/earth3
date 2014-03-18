@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "mc/texture_packs/default/stone"
+	"$surfaceprop" "Rock"
+}

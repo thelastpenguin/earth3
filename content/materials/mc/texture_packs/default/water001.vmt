@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "water001"
+	"$translucent" 1
+}

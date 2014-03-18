@@ -1,0 +1,17 @@
+"darkrp"
+{
+	"base"		"base"
+    "title"  "earth3"
+    "version"   "6.0.0"
+    "menusystem"	"1"
+
+    "author_name"   "TheLastPenguin"
+    "author_email"  "thelastpenguin212@gmail.com"
+    "author_url"    "www.lastpenguin.com"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+
+    "maps"      "^e3_"
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "mc/texture_packs/default/grass"
+	"$surfaceprop" "Rock"
+	"$nocull" 0
+}
